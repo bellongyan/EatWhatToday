@@ -1,0 +1,23 @@
+div{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+label{
+    font-family: SimSun;
+    font-size: 35px;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    font-size: medium;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#buttons{
+    margin-top: 30px;
+}
